@@ -1,0 +1,38 @@
+name: ai_music_generator
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  percent_indicator: 4.2.3
+  audioplayers: ^5.2.1
+
+  cupertino_icons: ^1.0.2
+  google_fonts:
+  provider:
+
+  flutter_carousel_slider: ^1.0.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - lib/images/sad.jpg
+    - lib/images/home_page.png
+    - lib/images/happy_nb.png
+    - lib/images/happy_nbw.png
+    - lib/images/sad.png
+    - assets/happy_songs/
+    - assets/cover_images/
+

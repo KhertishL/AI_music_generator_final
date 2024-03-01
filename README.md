@@ -1,1 +1,3 @@
-# AI_music_generator_final
+# ai_music_generator
+
+A new Flutter project.
